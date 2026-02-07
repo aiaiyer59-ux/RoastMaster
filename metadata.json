@@ -1,0 +1,7 @@
+{
+  "name": "RoastMaster AI",
+  "description": "An AI-powered roast generator that delivers savage, witty, and hilarious burns based on your text or photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
